@@ -1,1 +1,1 @@
-# unforget-launcher-releases
+# Здесь хранятся все версии лаунчера UNFORGET LAUNCHER.
